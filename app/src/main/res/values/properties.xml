@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unsplash_api_endpoint">https://api.unsplash.com/photos?per_page=100&amp;page=</string>
+    <string name="unsplash_api_key">e2e9b5c48855b929c39908f6610d224030b8bd738860e2c73a906c8554e8c78a</string>
+    <string name="endpoint">http://pastebin.com/raw/HibxXJ0e</string>
+
+</resources>

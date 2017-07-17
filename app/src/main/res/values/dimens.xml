@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="padding_screen">15dp</dimen>
+
+    <dimen name="margin_text_card">40dp</dimen>
+
+    <dimen name="size_text_card">20sp</dimen>
+
+    <dimen name="elevation_card">6dp</dimen>
+
+    <integer name="grid_col_count">3</integer>
+
+</resources>
